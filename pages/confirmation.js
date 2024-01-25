@@ -52,7 +52,7 @@ export default function Confirmation() {
         </h1>
         <Link href="/">
           <button className="text-xl text-pink-500 hover:text-pink-600 hover:underline">
-            Retourner à l'accueil
+            Retourner à l accueil
           </button>
         </Link>
       </div>
